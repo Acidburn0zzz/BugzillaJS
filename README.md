@@ -1,6 +1,6 @@
 # DOWNLOAD THE ADD-ON
 
-https://addons.mozilla.org/en-US/firefox/addon/bugzillajs/
+https://addons.mozilla.org/fr/firefox/addon/bugzillajs/
 
 # DEVELOPING THE ADD-ON (OSX Only!)
 
