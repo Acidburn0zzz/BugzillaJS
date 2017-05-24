@@ -1,4 +1,4 @@
-# DOWNLOAD THE ADD-ON
+# TELECHARGER CETTE ADD-ON
 
 https://addons.mozilla.org/fr/firefox/addon/bugzillajs/
 
@@ -19,23 +19,23 @@ This should open up an install button in Firefox.
 Omnium is just a wrapper that I use to generate XPI files.  It takes care of
 figuring out all the page-mod logic.
 
-# TESTING THE ADD-ON
+# TESTER CETE ADD-ON
 
 Once you have it installed, check out the following URL to see it in action:
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=574290
 
-# FEATURES
+# FONCTIONALITES
 
 You can turn features on and off by clicking the "BugzillaJS Preferences" link
 at the top and bottom of every page.  You need to refresh the page to see them
 come into effect.
 
-## Keyboard Shortcuts
+## Racourçis Clavier
 To view all keyboard shortcuts, type "?" on any page.
 - Enable keyboard shortcuts
 
-## Improve Comments
+## Commentaires Améliorer
 Make the comments on bugs more readable.
 - Turn timestamps into relative dates
 - Highlight reporter and assignee comments
